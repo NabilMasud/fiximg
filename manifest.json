@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Fix Broken Manga Images",
+  "version": "2.0",
+  "description": "Memperbaiki gambar mangapark dari s02 ke server lain.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Fix Images"
+  }
+}
